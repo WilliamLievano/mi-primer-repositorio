@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# mi-primer-README
 curso-Git/GitHub
